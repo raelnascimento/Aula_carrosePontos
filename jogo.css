@@ -1,0 +1,19 @@
+#moeda {
+  position: absolute;
+  left: 300px;
+  top: 200px;
+  width: 30px;
+  height: 30px;
+  /* background-color: rgb(66, 16, 40); */
+}
+
+#jcarro {
+  position: absolute;
+  left: 300px;
+  top: 300px;
+  width: 50px;
+  height: 30px;
+  /* background-color: rgb(12, 235, 23); */
+}
+
+
